@@ -1,0 +1,100 @@
+body {
+    background-color: #e4e4e4;
+    height: 100%;
+    font-family: 'Nunito', sans-serif;
+    /* margin: 10px;
+    padding: 0px; */
+}
+#container-header {
+    width: 100%;
+    /* margin: 0;
+    padding: 0; */
+}
+#wrapper-all {
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    position: absolute; 
+    bottom: 0;
+    /* overflow: hidden; */
+}
+.purple-color {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5706a8+1,9734d5+100 */
+    background: #5706a8; /* Old browsers */
+    background: -moz-linear-gradient(left, #5706a8 1%, #9734d5 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #5706a8 1%,#9734d5 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #5706a8 1%,#9734d5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5706a8', endColorstr='#9734d5',GradientType=1 ); /* IE6-9 */
+}
+#logo-header-div {
+    width: 25%;
+}
+#logo-header {
+    margin: 10%;
+}
+#logout-div{
+    padding: 2.5rem;
+}
+#logout-tag {
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 50%;
+    padding-top: 25px;
+}
+.full-length {
+    height: 110%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.container-sidebar {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-color: white;
+    float: left; 
+}
+.sidebar-user-info {
+}
+#user-photo {
+    padding-left: 1.8rem;
+    height: 12rem;
+}
+.sidebar-item {
+    overflow: hidden;
+    cursor: pointer;
+    /* display: block; */
+    width: 100%;
+    padding: 8px 16px;
+    text-align: left;
+    margin-right: 15px;
+    margin-top: 5px;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+    border: 2px solid rgb(97, 97, 97);
+    background-color: #8823db;
+    color: white;
+}
+#career-info-header {
+    clear: both;
+}
+#dash-title {
+    text-align: center;
+}
+p {
+    width: 100%;
+    text-align: center;
+}
+.wide-container {
+    width: 100%;
+}
+.top-buffer {
+    margin-top: 1.5rem;
+}
+.content {
+    text-align: center;
+}
+.container {
+    margin-top: 10%;
+    margin-left: 20%;
+}
